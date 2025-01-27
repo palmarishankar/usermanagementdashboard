@@ -1,0 +1,55 @@
+.user-details-container{
+    margin:35px;
+    list-style: none;
+}
+
+.delete-button{
+    height:42px;
+    width:90px;
+    background-color: red;
+    border-radius: 8px;
+    border-width:0px;
+    color:white;
+}
+
+.edit-button{
+    height:42px;
+    width:90px;
+    background-color: green;
+    border-radius: 8px;
+    border-width:0px;
+    color:white;
+    margin-right:8px;
+}
+
+.buttons-container{
+    padding:8px;
+
+}
+
+.form-container{
+    margin-left:70px;
+}
+
+.heading{
+    margin-left:70px;
+    font-size: 25px;
+}
+
+input{
+    height:45px;
+    width:400px;
+    margin-bottom:5px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.adduser-button{
+    height:42px;
+    width:90px;
+    background-color: blue;
+    border-radius: 8px;
+    border-width:0px;
+    color:white;
+    margin-bottom: 10px;
+}
