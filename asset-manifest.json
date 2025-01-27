@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usermanagementdashboard/static/css/main.3e8ab0b3.css",
+    "main.js": "/usermanagementdashboard/static/js/main.ebf9e67d.js",
+    "static/js/453.253ee28b.chunk.js": "/usermanagementdashboard/static/js/453.253ee28b.chunk.js",
+    "index.html": "/usermanagementdashboard/index.html",
+    "main.3e8ab0b3.css.map": "/usermanagementdashboard/static/css/main.3e8ab0b3.css.map",
+    "main.ebf9e67d.js.map": "/usermanagementdashboard/static/js/main.ebf9e67d.js.map",
+    "453.253ee28b.chunk.js.map": "/usermanagementdashboard/static/js/453.253ee28b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e8ab0b3.css",
+    "static/js/main.ebf9e67d.js"
+  ]
+}
